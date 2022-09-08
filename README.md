@@ -33,13 +33,9 @@ Subodh</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/CodeUpSubodh">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/LooterEx/">
-				<img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.pngfor-professional-logo-color-tal-revivo.png"></a>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>
 				<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sri.subodh">
 				<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-	   
-        
-	
-
       </div>
 
 </p>
