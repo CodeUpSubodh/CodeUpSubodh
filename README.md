@@ -44,9 +44,9 @@ Subodh</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Shutter Edits-Photo Editing Site](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Leggit React App](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Afilator React App Project](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Shutter Edits-Photo Editing Site](https://codeupsubodh.github.io/ShutterEdits/)
+- [Leggit React App](legitt.xyz)
+- [HelpyChat - An AIBot](https://github.com/CodeUpSubodh/HelpyChatProject.git)
 <!-- BLOG-POST-LIST:END -->
 
 
